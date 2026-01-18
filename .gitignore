@@ -1,0 +1,52 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# C/C++
+*.o
+*.out
+*.exe
+a.out
+
+# JavaScript/Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Compiled files
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build directories
+build/
+dist/
