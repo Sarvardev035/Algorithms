@@ -6,6 +6,11 @@ Collection of small algorithm solutions and reference implementations.
 - `problems/` — implementation per problem
 - `tests/` — pytest tests for each problem
 
+## Problems
+- `two_sum` — return indices of two numbers that add up to target
+- `merge_two_sorted_lists` — merge two sorted linked lists
+- `reverse_and_count` — reverse string (lowercased) and count alphabet usage
+
 ## How to run tests
 
 Requirements: Python 3.8+ and `pytest`.
