@@ -25,3 +25,15 @@ pytest -q
 ```
 
 Contributions are welcome! Open a PR with new problems, solutions, or improvements.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
+## Math
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
+<!---LeetCode Topics End-->
