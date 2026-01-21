@@ -37,6 +37,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | ------- |
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 ## Linked List
 |  |
@@ -59,4 +60,12 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
