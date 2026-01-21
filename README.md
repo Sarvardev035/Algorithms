@@ -38,6 +38,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Sarvardev035/Algorithms/tree/master/0326-power-of-three) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 ## Linked List
 |  |
@@ -48,6 +49,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sarvardev035/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sarvardev035/Algorithms/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
