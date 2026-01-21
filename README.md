@@ -40,6 +40,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sarvardev035/Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sarvardev035/Algorithms/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 ## Linked List
 |  |
@@ -52,6 +53,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sarvardev035/Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sarvardev035/Algorithms/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +75,12 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
