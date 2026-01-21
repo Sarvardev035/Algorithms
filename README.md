@@ -36,6 +36,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 ## Linked List
 |  |
@@ -50,4 +51,12 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
