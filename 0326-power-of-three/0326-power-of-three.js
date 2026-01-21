@@ -4,7 +4,6 @@
  */
 var isPowerOfThree = function(n) {
     let i = n
-    if (n <= 0) return false
     if (n === 1) return true
     do {
         i /= 3
