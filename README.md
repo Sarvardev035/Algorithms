@@ -31,6 +31,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
