@@ -35,6 +35,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sarvardev035/Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvardev035/Algorithms/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sarvardev035/Algorithms/tree/master/0292-nim-game) |
@@ -78,9 +79,11 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
