@@ -31,6 +31,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvardev035/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvardev035/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
@@ -104,4 +105,8 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvardev035/Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvardev035/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
