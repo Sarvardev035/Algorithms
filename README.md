@@ -35,6 +35,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | [0746-min-cost-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/Sarvardev035/Algorithms/tree/master/1200-minimum-absolute-difference) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvardev035/Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +96,12 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Sarvardev035/Algorithms/tree/master/1200-minimum-absolute-difference) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvardev035/Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvardev035/Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
