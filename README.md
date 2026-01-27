@@ -34,6 +34,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvardev035/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvardev035/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvardev035/Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sarvardev035/Algorithms/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/Sarvardev035/Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvardev035/Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -109,4 +110,8 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvardev035/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvardev035/Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
