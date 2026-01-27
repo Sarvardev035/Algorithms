@@ -1,14 +1,8 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var repeatedNTimes = function(nums) {
-    const seen = new Set();
-    for (const num of nums){
-        if(seen.has(num)){
-             return num;
-        }
-        seen.add(num);
-    }
-    
-};
+class Solution:
+    def repeatedNTimes(self, nums: List[int]) -> int:
+        seen = set()
+        for num in nums:
+            if num in seen:
+                return num
+            seen.add(num)
+        return -1
