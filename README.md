@@ -88,6 +88,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarvardev035/Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Sarvardev035/Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvardev035/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sarvardev035/Algorithms/tree/master/0509-fibonacci-number) |
@@ -112,6 +113,7 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarvardev035/Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvardev035/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
@@ -120,5 +122,6 @@ Contributions are welcome! Open a PR with new problems, solutions, or improvemen
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarvardev035/Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/Sarvardev035/Algorithms/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
